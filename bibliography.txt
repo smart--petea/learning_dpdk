@@ -1,3 +1,5 @@
 1. http://plvision.eu/blog/deploying-intel-dpdk-in-oracle-virtualbox/
 2. tun/tap tutorial http://backreference.org/2010/03/26/tuntap-interface-tutorial/
 3. Learning DPDK: KNI sample overview https://haryachyy.wordpress.com/2016/02/07/learning-dpdk-kni-sample-overview/
+4. Accelerating Network Receive Processing https://www.kernel.org/doc/ols/2005/ols2005v1-pages-289-296.pdf
+5. Design considerations for efficient network applications with Intel® multi-core processor-based systems on Linux http://www.intel.com/content/dam/www/public/us/en/documents/white-papers/multi-core-processor-based-linux-paper.pdf
